@@ -1,8 +1,8 @@
-# Shopping-App-React-Native
+# Shoping App
 
 Eine kleiner Shop, der mit React Native implementiert wurde. Benötigte Packages werden in App.js genannt.
 
-# Screenshot
+# Kleines Preview
 
 <br>
 <p align="center">
