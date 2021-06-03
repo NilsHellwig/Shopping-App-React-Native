@@ -2,7 +2,7 @@
 
 Eine kleiner Shop, der mit React Native implementiert wurde. Benötigte Packages werden in App.js genannt.
 
-# Kleines Preview
+# Preview
 
 <br>
 <p align="center">
